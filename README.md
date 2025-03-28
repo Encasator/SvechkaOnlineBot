@@ -9,3 +9,5 @@ Bot through which you can light a candle :)
 6. Compile!
 ## Dependies
 - TgBotCpp
+## RTC Development
+ - In the future will be added building with cmake (CMakeLists.txt)
