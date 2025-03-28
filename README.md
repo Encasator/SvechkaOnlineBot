@@ -1,4 +1,4 @@
-##Description
+## Description
 Bot through which you can light a candle :)
 ## Getting started
 1. Download zip archive
